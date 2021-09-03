@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Tourism App</string>
+    <string name="taj_mahal">TAJ MAHAL</string>
+    <string name="it_is_a_famous_place_located_in_agra_india">It is a famous place located in Agra,India.</string>
+    <string name="TAJMAHAL" />
+</resources>
